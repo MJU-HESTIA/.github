@@ -1,12 +1,12 @@
-## Hi there 👋
+## Highlights
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+<h2> HESTIA： <span style="font-size:12px"> Sustainable interactive AI devices using Generative AI </span> </h2> 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+![HESTIA](https://github.com/seukseok/seukseok/assets/114807415/43e892ff-6d82-4ac6-8f56-0dbcb69656a9)
+
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; single portrait image 🙎‍♂️  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; audio 🎤  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; talking head video 🎞.</b>
+<br>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; langchain 🦜️  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Llama  🦙  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ai assistant 🧑‍💼.</b>
