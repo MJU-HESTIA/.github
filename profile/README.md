@@ -13,10 +13,10 @@
 =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ai assistant 🧑‍💼🎞.</br>
 
 ## Introduction
-암튼 좀 써야함
+Soon!
 
 ## Features
-암튼 좀 써야함.
+Soon!
 
 
 ## **Hardware Requirements**
@@ -54,7 +54,7 @@ If you a developer, we have provided steps on how to build the application local
 If you want to build this application locally, you can build as follows:
 
 ```sh
-
+Soon!
 ```
 
 ## How to Run
@@ -62,7 +62,7 @@ If you want to build this application locally, you can build as follows:
 After buildig locally, you can run the application by:
 
 ```sh
-
+Soon!
 ```
 
 
