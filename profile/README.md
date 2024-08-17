@@ -4,7 +4,7 @@
 
 <h2> HESTIA： <span style="font-size:12px"> Sustainable interactive AI devices using Generative AI </span> </h2> 
 
-![HESTIA](https://files.slack.com/files-pri/T078E5859SS-F07H5HN1UJF/image.png)
+![HESTIA](https://github.com/user-attachments/assets/d2c442d0-0949-424e-976d-fa6ab2ca78a3)
 
 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AI Image generation](https://platform.openai.com/docs/guides/images) :framed_picture: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web_Scarping 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vision 👁️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weather 🌦️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date 📆  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alarm ⏰ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; automatic talker 🗣 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Function_calling🛠️  </br>
