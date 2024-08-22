@@ -28,7 +28,7 @@ Soon!
 
 ## **Software Requirements**
 
-- JetPack 6.0 (L4T 36.3)
+- JetPack 6.0 (L4T 36.3.0)
 - Ubuntu 22.04
 - CUDA 12.2, cuDNN 8.9, TensorRT 8.6, VPI 3.1
 
@@ -64,5 +64,10 @@ After buildig locally, you can run the application by:
 Soon!
 ```
 
+# TODO:
+- [ ] Create docs, Create setup readme.md
+- [ ] Reduce latency
+- [ ] Finetuning local slm for a better model (may take longer).
+- [ ] To modify the housing
 
 
