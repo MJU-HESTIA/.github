@@ -4,7 +4,7 @@
 
 <h2> HESTIA： <span style="font-size:12px"> Sustainable interactive AI devices using Generative AI </span> </h2> 
 
-![HESTIA](https://github.com/user-attachments/assets/d2c442d0-0949-424e-976d-fa6ab2ca78a3)
+![HESTIA](https://github.com/user-attachments/assets/7250942c-2c15-40e2-a4fd-d0c8b04e78a1)
 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HESTIA 🧑‍💼🎞 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>[Faster_Whisper](https://github.com/SYSTRAN/faster-whisper) :microphone:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AI Image generation](https://platform.openai.com/docs/guides/images) :framed_picture:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Llama3](https://huggingface.co/meta-llama/Meta-Llama-3-8B)  🦙 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + &nbsp;&nbsp;&nbsp;&nbsp;[Gemini 1.5](https://ai.google.dev/aistudio?hl=ko) ⚛ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Function_calling🛠️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TTS](https://platform.openai.com/docs/guides/text-to-speech)  :speaking_head:</br>
 
